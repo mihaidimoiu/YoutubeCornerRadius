@@ -1,4 +1,8 @@
 # Youtube Corner Radius
-This extension for Chrome will make your youtube corner to be circle instead of square
+This extension for Chrome will make your Youtube corner to be circle instead of square.
 
-# To use this extension, go to *chrome://extensions* and check Developer mode. Then press on button *Load unpacked* and choose this folder. 
+# How to use:
+1. Go to **chrome://extensions**.
+2. Check **Developer mode**.
+3. Press on button **Load unpacked** and choose this folder. 
+4. Reload your Youtube page.
